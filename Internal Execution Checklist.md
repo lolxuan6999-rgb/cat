@@ -8,8 +8,8 @@ This private checklist tracks the exact visual configurations and physical tasks
 | | Privacy Lockdown | Set Link to **"Secret"**, visitor access to **"Writer"**, and turn mandatory log-in **"Off"**. | ✅ **Done** |
 | | Safety Net Activation | Check settings to ensure **"Require Approval"** is turned on for all incoming posts. | ✅ **Done** |
 | **Phase 2: Seeding** | Pin Welcome Post | Draft, refine, and pin the welcome rules post to the top of the first column. | ✅ **Done** |
-| | Add Seed Data | Gather and upload **2 to 3 placeholder cat profiles** with photos to show neighbors how a good post looks. | 🚀 **NEXT TASK (To Do)** |
-| **Phase 3: Launch** | Friction Flow Check | Open the link in a mobile **incognito web tab** to test that uploading works without an account. | ⏳ Pending Phase 2 |
+| | Add Seed Data | Gather and upload **2 to 3 placeholder cat profiles** with photos to show neighbors how a good post looks. | ✅ **Done** |
+| **Phase 3: Launch** | Friction Flow Check | Open the link in a mobile **incognito web tab** to test that uploading works without an account. | 🚀 **NEXT TASK (To Do)** |
 | | Link Distribution | Copy the board link and share the invitation text into local neighborhood chat groups. | ⏳ Pending Phase 2 |
 | | Social Feedback | Approve the first few neighbor posts in the queue and leave a welcoming comment to start a social loop. | ⏳ Pending Phase 2 |
 | **Phase 4: Maintenance** | Weekly Sighting Audit | Check the timestamp dates in the comment sections **every Sunday** to see when cats were last seen. | ⏳ Ongoing (Post-Launch) |
