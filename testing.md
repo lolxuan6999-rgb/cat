@@ -18,8 +18,8 @@ The verification screenshot below confirms the success of the system architectur
 
 The system instantly processes the inbound data string and routes it directly to a secure, private administrative hold canvas, flagging the entry under a strict, system-enforced **"Awaiting approval"** state:
 
-<img width="384" height="634" alt="image" src="https://github.com/user-attachments/assets/dc317c5f-74da-481f-ba8f-671d46114bc2" /><img width="453" height="596" alt="image" src="https://github.com/user-attachments/assets/16b45abd-7e3a-493d-ad60-7bf9f07aef15" />
-
+<img width="453" height="596" alt="image" src="https://github.com/user-attachments/assets/16b45abd-7e3a-493d-ad60-7bf9f07aef15" />
+<img width="384" height="634" alt="image" src="https://github.com/user-attachments/assets/dc317c5f-74da-481f-ba8f-671d46114bc2" />
 
 ---
 
