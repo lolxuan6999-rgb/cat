@@ -6,8 +6,6 @@ First, I needed to test how the board behaves for a brand new user who doesn't h
 
 When I tapped the `(+)` button to add a post, the platform completely bypassed the mandatory sign-up screens. As you can see in the screenshot below, it explicitly told me **"You're contributing in guest mode"** without forcing me to register, which perfectly achieves my goal of zero-friction onboarding:
 
-<img width="453" height="596" alt="Guest Mode Interface Verification" src="https://github.com" />
-
 ---
 
 ## 🛠️ Step 2: Verifying the Administrative Security Firewall
