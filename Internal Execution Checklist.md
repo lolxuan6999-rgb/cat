@@ -17,3 +17,24 @@ This private checklist tracks the exact visual configurations and physical tasks
 | **Phase 4: Maintenance** | Weekly Sighting Audit | Check the timestamp dates in the comment sections **every Sunday** to see when cats were last seen. | ⏳ Ongoing (Post-Launch) |
 | | Triage Inactive Records | Manually drag any cat card that hasn't been seen in **14+ days** into the *"Not Seen Lately"* column. | ⏳ Ongoing (Post-Launch) |
 ****
+
+
+# 📋 Internal Execution Checklist (My Private Action Plan) [17Oct]
+
+| Phase | Task Name | Exact Action Item | Status / Next Step |
+| :--- | :--- | :--- | :--- |
+| **Phase 1: Config** | Generate Canvas | Create the Padlet board using the **"Sections"** column layout. | ✅ **Done** |
+| | Privacy Lockdown | Set Link to **"Secret"**, visitor access to **"Writer"**, and turn log-in **"Off"**. | ✅ **Done** |
+| | Safety Net | Check settings to ensure **"Require Approval"** is turned on for all incoming posts. | ✅ **Done** |
+| **Phase 2: Seeding** | Pin Welcome Post | Draft, refine, and pin the welcome rules post to the top of the first column. | ✅ **Done** |
+| | Add Seed Data | Gather and upload **2 to 3 placeholder cat profiles** with photos to model behavior. | ✅ **Done** |
+| | Create Info Section | Set up a dedicated "Information" column and update the educational TNR guide post. | ✅ **Done** |
+| **Phase 2.5: Trial** | Friction & Security | Open link in mobile incognito mode; verify submission bypasses login and hits admin queue. | ✅ **Done** |
+| | Mobile Performance | Upload a large, high-resolution phone photo outdoors to test mobile data rendering speeds. | 🚀 **NEXT TASK** |
+| | Duplicate Check | Have a beta tester try leaving a text comment under an existing profile without signing in. | 🚀 **TO DO** |
+| | Privacy Text Scrape | Practice using the admin panel to edit/scrub out a fake unit number from a test submission. | 🚀 **TO DO** |
+| **Phase 3: Launch** | Link Distribution | Copy the board link and share the final invitation text into large neighborhood chat groups. | ⏳ Pending Trial Completion |
+| | Social Feedback | Approve the first few neighbor posts in the queue and leave a welcoming comment. | ⏳ Pending Trial Completion |
+| **Phase 4: Maintain** | Weekly Sighting Audit | Check the timestamp dates in the comment sections **every Sunday** to see when cats were last seen. | ⏳ Ongoing (Post-Launch) |
+| | Inactive Triage | Manually drag any cat card that hasn't been seen in **14+ days** into the *"Not Seen Lately"* column. | ⏳ Ongoing (Post-Launch) |
+
