@@ -26,8 +26,11 @@ By testing these specific four dimensions, you have checked your product from bo
 The Final 4-Point Verification Checklist
 
 • Zero Onboarding Friction vs. Administrative Security: You verified that unregistered guest users successfully bypass the login wall (zero friction), while their inbound photo data is safely quarantined in your private view under the "Awaiting approval" state (total security).
+
 • The Mobile Data Performance Test (Image Size Check): You confirmed that when users upload high-resolution photos directly from their phone cameras outside, the system processes the files smoothly without lagging or stuttering over cellular data (4G/5G).
+
 • The Duplicate Sighting Test (Comment Log Validation): You verified that when multiple neighbors spot the same cat, they can easily leave text updates in the existing profile's comment log as an append-only timeline, preventing duplicate profiles from cluttering the main grid.
+
 • The Visual Privacy Text Scrape (Accidental Address Check): You confirmed your ability as the administrator to edit, scrub, or remove exact house or unit numbers from a submission text block before hitting approve, ensuring absolute privacy for your neighbors and the cats.
 
 ---
