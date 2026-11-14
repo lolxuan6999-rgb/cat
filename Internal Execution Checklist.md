@@ -9,8 +9,8 @@
 | | Add Seed Data | Gather and upload **2 to 3 placeholder cat profiles** with photos to model behavior. | ✅ **Done** |
 | | Create Info Section | Set up a dedicated "Information" column and update the educational TNR guide post. | ✅ **Done** |
 | **Phase 2.5: Trial** | Friction & Security | Open link in mobile incognito mode; verify submission bypasses login and hits admin queue. | ✅ **Done** |
-| | Mobile Performance | Upload a large, high-resolution phone photo outdoors to test mobile data rendering speeds. | 🚀 **NEXT TASK** |
-| | Duplicate Check | Have a beta tester try leaving a text comment under an existing profile without signing in. | 🚀 **TO DO** |
+| | Mobile Performance | Upload a large, high-resolution phone photo outdoors to test mobile data rendering speeds. | ✅ **Done** |
+| | Duplicate Check | Have a beta tester try leaving a text comment under an existing profile without signing in. | ✅ **Done** |
 | | Privacy Text Scrape | Practice using the admin panel to edit/scrub out a fake unit number from a test submission. | 🚀 **TO DO** |
 | **Phase 3: Launch** | Link Distribution | Copy the board link and share the final invitation text into large neighborhood chat groups. | ⏳ Pending Trial Completion |
 | | Social Feedback | Approve the first few neighbor posts in the queue and leave a welcoming comment. | ⏳ Pending Trial Completion |
